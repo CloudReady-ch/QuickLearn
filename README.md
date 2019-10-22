@@ -1,5 +1,5 @@
 # QuickLearn
-C'est un collectif de formateurs *(erk)*, enseignants *(bof, toi tu sais l'apprenant ignore?)*, éducateur *(sos!)*, instructeur *(tu instruis sans comprendre?)*, professeurs *(tu as le titre?)*, maîtres *(jedi?)*... 
+C'est un collectif de formateurs *(erk)*, enseignants *(bof, toi tu sais tout, et l'apprenant c'est un ignorant?)*, éducateur *(sos!)*, instructeur *(tu instruis sans comprendre?)*, professeurs *(tu as le titre?)*, maîtres *(jedi?)*... 
 
 
 Bon alors on va dire de **coachs en apprentissages numériques** qui proposent des formations informatiques, en cherchant à innover sur les méthodes et les outils. *(OK c'est bon comme cela ;-)*
