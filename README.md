@@ -14,8 +14,9 @@ Bon alors, on va dire de **coachs en apprentissages numériques** qui proposent 
 
 ## *Disclaimer, Terms of Services*
 * Tous nos contenus sont en [CC-BY-NC-SA](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.fr) ![CC-BY-NC-SA](https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png)
-  * *Ce qui ne veut pas dire que tu peux pas les utiliser pour faire ton "beurre", c'est juste que tu dois partager un peu avec nous.*
-  * https://github.com/CloudReady-ch/QuickLearn/wiki
+  * *Ce qui ne veut pas dire que tu peux pas les utiliser pour faire ton "beurre", 
+    * c'est juste que tu dois partager un peu avec nous.*
+    * https://github.com/CloudReady-ch/QuickLearn/wiki
 * Si tu fais des grosses bêtises, on n'est pas responsable...
 * Si tu fais pleins de trucs bien, on espère que nous aurons pu t'y aider...
 * On a posé des fichiers et partagé des machins
