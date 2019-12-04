@@ -5,5 +5,5 @@ Des articles, livres blancs, commentaires judicieux, liens vers vidéos, et autr
 # Education
 
 # En anglais
-## Pierre Mirlesse: 
+## [Pierre Mirlesse](https://www.linkedin.com/in/pierremirlesse): 
 * Education: https://github.com/CloudReady-ch/QuickLearn/blob/master/_Education/Pierre%20MIRLESSE%20livre%20blanc%20education%204AA6-5536ENW.pdf
