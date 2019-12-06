@@ -3,6 +3,8 @@ Des articles, livres blancs, commentaires judicieux, liens vers vidéos, et autr
 *Ah l'instruction, comment l'acquérir? Avec des instructeurs? Je peux bien devenir instruit, mais pas instructionné!*
 
 # Education
+## [Pascal Kotté](http://pascal.kotte.net)
+* http://education.kotte.net
 
 # En anglais
 ## [Pierre Mirlesse](https://www.linkedin.com/in/pierremirlesse): 
