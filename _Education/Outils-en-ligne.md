@@ -25,5 +25,9 @@
 ## Fribourg
 * https://www.fritic.ch/fr/prestations/enseignement-distance-informations-officielles/outils-enseignement-distance
 
+## Neuchatel
+* https://www.unine.ch/coronavirus/travail-distance#jitsi
 
-## 
+## Genève
+* https://edu.ge.ch/sem/ressources-pedagogiques/outils/comment-travailler-distance-avec-vos-eleves-2792
+* https://edu.ge.ch/sem/system/files/ressources/telecharger/prof_-_comment_creuer_une_classe_virtuelle_.pdf
