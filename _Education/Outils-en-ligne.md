@@ -17,9 +17,12 @@
 
 ## Questionnaire
 * https://quizlet.com/fr-fr permet de faire des questionnaires fun, et compétition à plusieurs
+* Google form: https://www.google.com/intl/fr_ch/forms/about/
+* Microsoft form: https://forms.office.com/
 
 # Autres sites de ressources
 ## Fribourg
 * https://www.fritic.ch/fr/prestations/enseignement-distance-informations-officielles/outils-enseignement-distance
+
 
 ## 
