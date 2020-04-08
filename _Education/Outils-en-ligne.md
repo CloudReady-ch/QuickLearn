@@ -10,7 +10,7 @@
 * Youtube: www.youtube.com
 
 ## Tableaux blancs
-* TK
+* http://openboard.ch/
 
 ## Mur de questions
 * https://web.speakup.info/ avec la capacité de faire un "poll" (vote)
