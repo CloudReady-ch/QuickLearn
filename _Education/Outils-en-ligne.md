@@ -1,4 +1,4 @@
-# Des outils en ligne pour aider et support les éducateurs et enseignants
+# Des outils numériques ou en ligne pour aider les éducateurs et enseignants
 ## Webconf
 * http://webrtc.quicklearn.ch
 * http://webconf.kotte.net
