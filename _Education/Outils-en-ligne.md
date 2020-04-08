@@ -1,6 +1,7 @@
 # Des outils numériques ou en ligne pour aider les éducateurs et enseignants
 ## Webconf
 * http://webrtc.quicklearn.ch
+  * https://www.unine.ch/files/live/sites/serv_sitel/files/shared/documents/UNINE_SITEL_JitsiMeet.pdf
 * http://webconf.kotte.net
 
 ## Présentations
