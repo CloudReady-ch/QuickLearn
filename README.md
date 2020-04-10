@@ -1,7 +1,5 @@
-# QuickLearn
+# [QuickLearn](https://github.com/CloudReady-ch/QuickLearn/wiki)
 C'est un collectif de formateurs *(erk, tu formates le cerveau des gens?)*, enseignants *(bof, toi tu sais tout, et l'apprenant c'est un ignorant?)*, éducateurs *(sos! tu remets dans le droit chemin?)*, précepteurs *(comme chez les rois?)*, instructeurs *(tu transmets des instructions? Sans les comprendre?)*, professeurs *(tu as le titre?)*, maîtres *(jedi?)*... 
-* https://github.com/CloudReady-ch/QuickLearn/wiki
-
 
 Bon alors, on va dire de **coachs en apprentissages numériques** qui proposent des formations informatiques, en cherchant à innover sur les méthodes et les outils. *(OK c'est bon comme cela ;-)*
 * Le collectif http://QuickLearn.ch
