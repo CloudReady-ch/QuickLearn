@@ -14,6 +14,7 @@ Bon alors, on va dire de **coachs en apprentissages numériques** qui proposent 
 +? https://github.com/CloudReady-ch/QuickLearn/wiki
 
 ## Charte éthique
+* http://charte.quicklearn.ch
 * https://github.com/CloudReady-ch/QuickLearn/wiki/Digital-Learn-Ethique
 
 ## *Disclaimer, Terms of Services*
