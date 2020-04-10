@@ -1,5 +1,5 @@
 # QuickLearn
-C'est un collectif de formateurs *(erk, tu formates le cerveau des gens?)*, enseignants *(bof, toi tu sais tout, et l'apprenant c'est un ignorant?)*, éducateurs *(sos! tu remets dans le droit chemin?)*, instructeurs *(tu transmets des instructions? Sans les comprendre?)*, professeurs *(tu as le titre?)*, maîtres *(jedi?)*... 
+C'est un collectif de formateurs *(erk, tu formates le cerveau des gens?)*, enseignants *(bof, toi tu sais tout, et l'apprenant c'est un ignorant?)*, éducateurs *(sos! tu remets dans le droit chemin?)*, précepteurs *(comme chez les rois?)*, instructeurs *(tu transmets des instructions? Sans les comprendre?)*, professeurs *(tu as le titre?)*, maîtres *(jedi?)*... 
 * https://github.com/CloudReady-ch/QuickLearn/wiki
 
 
