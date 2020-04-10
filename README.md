@@ -5,7 +5,8 @@ C'est un collectif de formateurs *(erk, tu formates le cerveau des gens?)*, ense
 Bon alors, on va dire de **coachs en apprentissages numériques** qui proposent des formations informatiques, en cherchant à innover sur les méthodes et les outils. *(OK c'est bon comme cela ;-)*
 * Le collectif http://QuickLearn.ch
 * L'espace collaboratif QuickLearn: https://framavox.org/g/yK4dGk8j/quicklearn-en-fran-ais
-* Le Blog https://medium.com/quicklearn
+  * S'y inscrire directement: https://framavox.org/join/group/121e10bb05b328b0cf19/
+* Le Blog https://medium.com/quicklearn (http://blog.QuickLearn.ch)
 * Les formations en ligne: https://medium.com/quicklearn/colearning/home
 * Pis y'a aussi les trucs avec l'ISEIG: https://github.com/CloudReady-ch/ISEIG-LAB
 * Pis les trucs de culture numérique: https://github.com/CloudReady-ch/Culture-numerique
