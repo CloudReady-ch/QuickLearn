@@ -13,6 +13,8 @@ Bon alors, on va dire de **coachs en apprentissages numériques** qui proposent 
 * Le Blog https://medium.com/quicklearn (http://blog.QuickLearn.ch)
 * Les formations en ligne: https://medium.com/quicklearn/colearning/home
   * ici-même: https://github.com/CloudReady-ch/QuickLearn
+  * Mais cela peut ne pas être fini du tout, voir même, pas commencé en fait...
+  * Soit pas déçu, tu es prevenu ;)
 * Pis y'a aussi les trucs avec l'ISEIG: https://github.com/CloudReady-ch/ISEIG-LAB
 * Pis les trucs de culture numérique: https://github.com/CloudReady-ch/Culture-numerique
 * *Tu veux ajouter qq chose ?*
