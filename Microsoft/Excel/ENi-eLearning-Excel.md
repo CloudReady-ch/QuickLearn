@@ -1,5 +1,5 @@
 # Compléments d'informations sur la formation eLearning ENi
-## Excel
+## Excel 2016
 Astuces ou notes générales
 * Blocage de l'exercice quand positionné dans une cellule: La fonction valider un exercice ou "suivant" ne sera pas opérant avant de "sortir" de la cellule avec (Esc) ou (Enter)
 * Les affichages des chapitres lus peut rester en "point rouge" et non "coche verte" même après lecture. C'est pas grave, on passe.
