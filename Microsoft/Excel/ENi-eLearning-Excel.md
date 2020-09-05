@@ -5,6 +5,7 @@ Astuces ou notes générales
 * Les affichages des chapitres lus peut rester en "point rouge" et non "coche verte" même après lecture. C'est pas grave, on passe.
 * Le mode "Cloud" peut se bloquer, et nécessiter de relancer et se réidentifier sur la plateforme.
 * Les exercices "ratés", il est inutile de corriger avant de faire un reset avec le bouton recommencer
+* 
 
 ### 01 Environnement 
 ### 02 Gestion des classeurs 
