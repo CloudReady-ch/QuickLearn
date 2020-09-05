@@ -11,4 +11,3 @@ Astuces ou notes générales
 * ex.5: "Modifier la zone de texte", il faut lire "Modifier la forme de la zone de texte"
 
 
-http://www.mediapluspro.com/mediaplus69/client_net/vm_cursus.aspx?sessionid=bbcdd519-a2b0-4361-9b94-c43715633248
