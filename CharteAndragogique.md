@@ -26,8 +26,9 @@ L’adulte a besoin de savoir où il y va, pourquoi et comment il va ou comment 
 ## Source:
 * ISEIG: https://iseig.ch/pourquoi-choisir-liseig/approche-andragogique-de-liseig/
 
-Voir aussi
+### Voir aussi
 * http://charte.quicklearn.ch
+* https://www.linkedin.com/posts/christophewagniere_approche-andragogique-de-liseig-iseig-activity-6706629596105719808-AfzU
 
 # Autres sources:
 * https://www.pca-acp.ch/fr/Formations/Le-modele-andragogique.246.html
