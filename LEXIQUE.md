@@ -30,7 +30,7 @@ Usage très ambigu comme nom, mieux en adjectif.
   * Il n'y a pas de programme d'installation [installeur](https://github.com/CloudReady-ch/QuickLearn/wiki/Lexique#installeur). 
   * Il suffit de l'utiliser directement. Pratique pour être utilisable depuis un [lecteur] réseau, ou sans les droits 'admin' comme avec Chrome (qui passe tout de même par un installeur, même portable). 
   * Il suffit de copier le programme, ou le dossier du programme.
-* Un téléphone mobile.
+* Un téléphone mobile (ou portable), il sera désormais approprié de parler de smartphones, quoique, certains restent avec un simple téléphone...
 * Un ordinateur de type laptop, ou notebook, ou autres transportables.
 ### URI
 * Unique Resource Identifier: https://fr.wikipedia.org/wiki/Uniform_Resource_Identifier
