@@ -11,5 +11,9 @@
 * Standard (one cost)
 * PRO (one cost ou abonnement)
 
+* https://www.microsoft.com/fr-ch/microsoft-365/visio/microsoft-visio-plans-and-pricing-compare-visio-options
+* https://support.microsoft.com/fr-fr/office/comparer-les-versions-et-fonctionnalit%C3%A9s-de-visio-c659cbc1-34c7-42d8-92e6-80c87fb572a7
+
 ## Prise en main
 * https://support.microsoft.com/fr-fr/visio
+
