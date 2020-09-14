@@ -17,3 +17,11 @@
 ## Prise en main
 * https://support.microsoft.com/fr-fr/visio
 
+
+## Gestion des arrières plans
+### Activer un arrière-plan
+* page 2: renommer AP, et changer type (Bouton radio "Arrière-plan") dans le fenêtre "Mise en page..." (clic-droit sur la page)
+  * Question: Pourquoi certains menu ont '...' derrière et d'autres, non?
+* page 1: Mise en page...: Activer la page 2 'AP' comme arrière plan.
+### Faire une exception
+* 
