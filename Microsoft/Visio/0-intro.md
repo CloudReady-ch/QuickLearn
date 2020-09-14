@@ -24,4 +24,9 @@
   * Question: Pourquoi certains menu ont '...' derrière et d'autres, non?
 * page 1: Mise en page...: Activer la page 2 'AP' comme arrière plan.
 ### Faire une exception
-* 
+* Tu ajoutes 2 pages sur le même arrière-plan
+* Tu as besoin de changer l'arrière-plan pour la page 3
+* Tu dupliques l'arrière-plan
+* Tu associes le 2nd arrière-plan à la page 3
+* Tu adaptes l'arrire-plan bis
+* Mieux: Tu déplaces la page 3 après l'arrière plan 1, et devant arrière.plan bis.
