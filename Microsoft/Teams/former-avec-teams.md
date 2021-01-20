@@ -21,5 +21,5 @@ Il y a (principalement) 2 contextes différents pour donner une formation à dis
 * TK
 ## profweb
 * https://www.profweb.ca/publications/articles/utiliser-teams-en-formation-a-distance-un-atelier-du-refad
-  * REFAD:  https://youtu.be/JP1p7M4fNsU (Mme Kim Burton)
+  * REFAD:  https://youtu.be/JP1p7M4fNsU (Mme Kim Burton, 1h11)
   * https://youtu.be/J0T-NZ86Z5g (intro Teams éducation en 1 mn: Dominic Gagné)
