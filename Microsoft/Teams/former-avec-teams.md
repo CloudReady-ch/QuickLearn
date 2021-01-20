@@ -18,7 +18,9 @@ Il y a (principalement) 2 contextes différents pour donner une formation à dis
 
 # Sources externes, inspirations
 ## Microsoft
-* TK
+* [5 pages EN](https://github.com/CloudReady-ch/QuickLearn/blob/master/Microsoft/Teams/Teams%20QS.pdf)
+* [16 pages FR education, fiches enseignant](https://github.com/CloudReady-ch/QuickLearn/blob/master/Microsoft/Teams/TeamsforEducation_QuickGuide.pdf)
+* TK...
 ## profweb
 * https://www.profweb.ca/publications/articles/utiliser-teams-en-formation-a-distance-un-atelier-du-refad
   * REFAD:  https://youtu.be/JP1p7M4fNsU (Mme Kim Burton, 1h11)
