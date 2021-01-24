@@ -4,13 +4,13 @@
 * Lectures complémentaires recommandées:
   * https://blog.liberetonordi.com/index.php?post/5-confusions
   * ... TK
-## Autres lexiques
+## Autres lexiques (en franglais)
 * https://www.sospc2424.ch/site/fr/lexique/
 * https://www.dataevent.com/lexique/lexique.php
 * https://fr.wikipedia.org/wiki/Jargon_informatique
 * https://www.vulgarisation-informatique.com/lexique.php
 * https://blog.liberetonordi.com/index.php?pages/lexique
-## en français
+## en français (uniquement)
 * https://fr.wiktionary.org/wiki/Cat%C3%A9gorie:Lexique_en_fran%C3%A7ais_de_l%E2%80%99informatique
 * https://www.docteurordinateur.com/dictionnaire-de-termes-techniques-informatiques.html
 * https://www.mixconcept.fr/blog/lexique-informatique
