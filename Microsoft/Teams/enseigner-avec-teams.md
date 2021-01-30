@@ -10,6 +10,9 @@ Il y a (principalement) 2 contextes différents pour donner une formation à dis
 
 ## Classe pré-enregistrée
 
+### La gestion des inscriptions et des participants
+Elle est préparée dans M365: https://github.com/CloudReady-ch/QuickLearn/blob/master/Microsoft/M365/Enseigner-avec-M365.md
+
 * TK
 
 ## Classe d'invités
