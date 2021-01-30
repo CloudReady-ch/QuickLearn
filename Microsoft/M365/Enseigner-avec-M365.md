@@ -27,14 +27,18 @@ Enseignant et apprenants sont connectés depuis leurs ordinateurs privé, et dep
 * L'enseignant doit disposer d'un équipement audio de type "webconférence" (interphone de salon ou speakerphone de visioconférence, type Jabra ou similaire: 100-150 CHF)
 
 # Les composants utilisés
-## Les composants de base
+## Les 10 composants de base
 L'univers M365 pour l'enseignement va inclure impérativement les briques suivantes:
-* Office 365 online avec **OneDrive**: Les versions Web de **Word**, **Excel**, **PowerPoint** avec le stockage "Cloud" **OneDrive**.
+* Office 365 online avec **OneDrive**: Les versions Web de **Word**, **Excel**, **PowerPoint** avec le stockage "Cloud" OneDrive.
 * **Teams**, qui permet
-* Onenote, qui est fondamentalement un des composants de Office, mais généralement disjoint de la suite habituelle: Word, Excel, Powerpoint.
-* **Outlook**, qui est le gestionnaire d'emails, en plus de gérer **calendrier**(s) et **contacts**.
+* **Onenote**, qui est fondamentalement un des composants de Office, mais généralement disjoint de la suite habituelle: Word, Excel, Powerpoint.
+* **Outlook**, qui est le gestionnaire d'emails, en plus de gérer **calendrier**(s), **contacts** et liste de tâches **To do**.
 
 ## Les composants recommandés
+La disponibilité effective des différents composants, va dépendre des configurations dans l'administration du "tenant" du centre/école concerné.
+* **Forms** - permet de générer un questionnaire, et de formatter les réponses dans un tableur. Enquêtes, tests de connaissances, votes ou validations de choix...
+* **Project** - Est rarement disponible car une licence complémentaire, mais pour les métiers d'ingéniérie ou dans l'industrie, du bâtiment, c'est un outil répandu, donc sujet d'un apprentissage recommandé. Gestion et planification de tâches, en mode Gantt.
+* **Listes** - Version Microsoft de AirTable, une alternative à Excel, avec une gestion améliorée des contenus enrichis (URL, images, fichiers)
 
 
 ## Les composant à explorer
@@ -42,10 +46,14 @@ L'univers M365 pour l'enseignement va inclure impérativement les briques suivan
 * Yammer - Est un espace simple pour partager des échanges et discussions dans un mode similaire aux groupes "Facebook", mais en interne pour toute l'école.
   * idéal pour créer des animations péri-scolaires, 
   * ou partager des informations inter-classes
+* **Streams** - Va permettre une troisième de présentations, la vidéo, par enregistrement directement, webcam ou copie d'un écran, ou pour importer une vidéo montée à part.
 
 ## Les composants accessoires
 La disponibilité effective des différents composants, va dépendre des configurations dans l'administration du "tenant" du centre/école concerné.
-* Delve
+* **Delve** - va faciliter l'exploration des documentations existantes, ou dans ses propres productions, pour les retrouver plus facilement aussi...
+* **Dynamics 365** - Est un icône marketing pour promouvoir un espace marchand (*apps marketplace*)
+* **Kaizala** - Est la version Microsoft de Whatsapp, et nous recommandons l'usage de Signal à la place (cf. http://whatsapp.kotte.net)
+* **Power Apps** - Va permettre de créer des automatisations et 
 
 # Programmes des connaissances nécessaires
 ## Compétences requises (niveau 1)
@@ -69,3 +77,5 @@ Lors de la constitution d'équipes pour une classe, sur des formations qui duren
   * L'enseignant n'en dispose pas, l'apprenant dispose d'un profil avec email secondaire ou mobile, avec un self-service disponible.
   * La récupération n'est pas disponible: L'apprenant doit suivre la formation en doublon avec un camarade, un ticket de récupération est ouvert.
 
+# Les points d'attentions requis
+* Les informations de téléphones mobiles et emails secondaires sont par défaut partagés et visibles dans tous le centre/école, sinon au sein d'une classe/cohorte. C'est parfois un frein à la saisie de ces données pour assurer une récupération de mot de passe, car cette "visibilité" doit être annoncée au moment de la "saisie" par l'usager.
