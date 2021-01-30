@@ -1,4 +1,4 @@
-# Comment un enseignant peut-il utiliser Microsoft 365, aurtout en situation de pandémie?
+# Comment un enseignant peut-il utiliser Microsoft 365, surtout en situation de pandémie?
 ## Les 3 scènes possibles
 Il existe 2 scénarios, qui déclinent un troisième scénario:
 1. Utilisation pour donner un cours en distanciel
@@ -28,40 +28,45 @@ Enseignant et apprenants sont connectés depuis leurs ordinateurs privé, et dep
 
 # Les composants utilisés
 ## Les 10 composants de base
-L'univers M365 pour l'enseignement va inclure impérativement les briques suivantes:
+L'univers M365 pour l'enseignement va inclure assez systématiquement les briques suivantes:
 * Office 365 online avec **OneDrive**: Les versions Web de **Word**, **Excel**, **PowerPoint** avec le stockage "Cloud" OneDrive.
-* **Teams**, qui permet
-* **Onenote**, qui est fondamentalement un des composants de Office, mais généralement disjoint de la suite habituelle: Word, Excel, Powerpoint.
+* **Teams**, qui permet la collaboration à travers des canaux thématiques (une branche d'enseignement) via des discussions, avec des fichiers associés, et des webconférences (ou classes en distanciel)
+* **OneNote**, qui est un des composants d'Office, mais généralement disjoint de la suite habituelle: Word, Excel, Powerpoint.
 * **Outlook**, qui est le gestionnaire d'emails, en plus de gérer **calendrier**(s), **contacts** et liste de tâches **To do**.
 
-## Les composants recommandés
+## Les 5 composants recommandés
 La disponibilité effective des différents composants, va dépendre des configurations dans l'administration du "tenant" du centre/école concerné.
 * **Forms** - permet de générer un questionnaire, et de formatter les réponses dans un tableur. Enquêtes, tests de connaissances, votes ou validations de choix...
 * **Project** - Est rarement disponible car une licence complémentaire, mais pour les métiers d'ingéniérie ou dans l'industrie, du bâtiment, c'est un outil répandu, donc sujet d'un apprentissage recommandé. Gestion et planification de tâches, en mode Gantt.
-* **Listes** - Version Microsoft de AirTable, une alternative à Excel, avec une gestion améliorée des contenus enrichis (URL, images, fichiers)
+* **Lists** - Version Microsoft de AirTable, une alternative à Excel, avec une gestion améliorée des contenus enrichis (URL, images, fichiers)
+* **Whiteboard** - Est un tableau blanc pour les nostalgiques du tableau noir, mais blanc, et plus utile si combiné avec une tablette tactile ou un tableau inter-actif.
+* **SharePoint** - Permet le partage d'espaces de type intranet (contenus publiés, organisés en pages web structurées)
 
-
-## Les composant à explorer
-* Sway - Est un outils alternatif à Powerpoint pour faire des exposés ou présentations à la manière d'un [scrapbooking](https://fr.wikipedia.org/wiki/Scrapbooking) (cahier de photos-collées et décoré)
-* Yammer - Est un espace simple pour partager des échanges et discussions dans un mode similaire aux groupes "Facebook", mais en interne pour toute l'école.
+## Les 5 composant à explorer
+* **Sway** - Est un outils alternatif à Powerpoint pour faire des exposés ou présentations à la manière d'un [scrapbooking](https://fr.wikipedia.org/wiki/Scrapbooking) (cahier de photos-collées et décoré)
+* **Yammer** - Est un espace simple pour partager des échanges et discussions dans un mode similaire aux groupes "Facebook", mais en interne pour toute l'école.
   * idéal pour créer des animations péri-scolaires, 
   * ou partager des informations inter-classes
 * **Streams** - Va permettre une troisième de présentations, la vidéo, par enregistrement directement, webcam ou copie d'un écran, ou pour importer une vidéo montée à part.
+* **Video** - Et oui, grosso modo, la même chose que Streams, mais différent. Pas de capture ou enregistrement en ligne, uniquement upload.
+* **Planner** - Une autre façon de gérer et distribuer des tâches, en mode [Kanban](https://fr.wikipedia.org/wiki/Kanban_(d%C3%A9veloppement)) issue du monde [Agile](https://fr.wikipedia.org/wiki/M%C3%A9thode_agile)
 
-## Les composants accessoires
+## Les 5 composants accessoires
 La disponibilité effective des différents composants, va dépendre des configurations dans l'administration du "tenant" du centre/école concerné.
 * **Delve** - va faciliter l'exploration des documentations existantes, ou dans ses propres productions, pour les retrouver plus facilement aussi...
 * **Dynamics 365** - Est un icône marketing pour promouvoir un espace marchand (*apps marketplace*)
 * **Kaizala** - Est la version Microsoft de Whatsapp, et nous recommandons l'usage de Signal à la place (cf. http://whatsapp.kotte.net)
-* **Power Apps** - Va permettre de créer des automatisations et 
+* **Power Apps** - Va permettre de créer des applications "mobiles" simples à partir de données structurées par exemple.
+* **Power Automate** - Va lui permettre de créer des automatisations dans la transmission de donnés ou déclenchement d'opérations sur des évènements (email, forms...)
 
 # Programmes des connaissances nécessaires
 ## Compétences requises (niveau 1)
 
 ### Savoir créer/vérifier la présence complète de la cohorte/classe dans Teams
-Lors de la constitution d'équipes pour une classe, sur des formations qui durent plus d'une année, il est judicieux de créer des cohortes, surtout si des références aux apprentissages précédents sont nécessaires pour les années suivantes. Les classes comprenant
-* 
-
+Lors de la constitution d'équipes pour une classe, sur des formations qui durent plus d'une année, il est judicieux de créer des cohortes, surtout si des références aux apprentissages précédents sont nécessaires pour les années suivantes. Les matières à options comprenant un regroupement de multiples classes, disposent généralement de leur propre équipe Teams. Généralement, un ou plusieurs modèle(s) de création de classe/cohorte sont proposé
+* Création ou vérification d'une classe/cohorte avant le premier cours.
+* Création des canaux manquants (généralement préétablis dans les modèles)
+* Création des espaces optionnels associés aux canaux (généralement inclus dans les modèles)
 
 ### Etre apte à se connecter à l'environnement Office de l'école ou du centre de formation
 #### Etablir une connection
