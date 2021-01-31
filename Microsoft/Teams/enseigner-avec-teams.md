@@ -18,9 +18,12 @@ Il y a (principalement) 2 contextes organisationnels différents pour donner une
 ## Classe pré-enregistrée
 
 ### La gestion des inscriptions et des participants
-Elle est préparée dans M365: https://github.com/CloudReady-ch/QuickLearn/blob/master/Microsoft/M365/Enseigner-avec-M365.md
-
-* TK
+Elle est généralement planifiée et préparée dans M365: https://github.com/CloudReady-ch/QuickLearn/blob/master/Microsoft/M365/Enseigner-avec-M365.md
+* convention de nommage établie
+  * prefix: club, classe, 
+  * Désignation en 3 mots (c'est pour y faire quoi)
+  * éventuelle complément d'infos selon caractéristiques (public, privée, année, ...)
+* Elle peut désigner 
 
 ## Classe d'invités
 
@@ -38,7 +41,9 @@ Ben tu peux pas les désactiver. En tout cas, pas de façon évidente.
 ## Microsoft
 * [5 pages EN](https://github.com/CloudReady-ch/QuickLearn/blob/master/Microsoft/Teams/Teams%20QS.pdf)
 * [16 pages FR education, fiches enseignant](https://github.com/CloudReady-ch/QuickLearn/blob/master/Microsoft/Teams/TeamsforEducation_QuickGuide.pdf)
-* TK...
+* Formation instructeurs Teams: https://docs.microsoft.com/fr-FR/microsoftteams/instructor-led-training-teams-landing-page?.mc_id=TeamsAdminCenterCSH
+* Formation utilisateurs Teams: https://docs.microsoft.com/fr-FR/microsoftteams/enduser-training?WT.mc_id=TeamsAdminCenterCSH
+* Formation admins Teams: https://docs.microsoft.com/fr-FR/microsoftteams/itadmin-readiness?WT.mc_id=TeamsAdminCenterCSH
 ## profweb
 * https://www.profweb.ca/publications/articles/utiliser-teams-en-formation-a-distance-un-atelier-du-refad
   * REFAD:  https://youtu.be/JP1p7M4fNsU (Mme Kim Burton, 1h11)
