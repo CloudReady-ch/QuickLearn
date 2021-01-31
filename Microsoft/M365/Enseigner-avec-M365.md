@@ -54,24 +54,24 @@ cf. https://github.com/CloudReady-ch/QuickLearn/blob/master/Microsoft/Teams/ense
 Sur les 25 composants identifiés (janvier 2021)
 ## Les 10 composants de base
 L'univers M365 pour l'enseignement va inclure assez systématiquement les briques suivantes:
-* Office 365 online avec **OneDrive**: Les versions Web de **Word**, **Excel**, **PowerPoint** avec le stockage "Cloud" OneDrive.
-* **Teams**, qui permet la collaboration à travers des canaux thématiques (une branche d'enseignement) via des discussions, avec des fichiers associés, et des webconférences (ou classes en distanciel)
-* **OneNote**, qui est un des composants d'Office, mais généralement disjoint de la suite habituelle: Word, Excel, Powerpoint.
-* **Outlook**, qui est le gestionnaire d'emails, en plus de gérer **calendrier**(s), **contacts** et liste de tâches **To do**.
+* Office 365 online avec **[OneDrive](https://github.com/CloudReady-ch/QuickLearn/tree/master/Microsoft/OneDrive)**: Les versions Web de **[Word](https://github.com/CloudReady-ch/QuickLearn/tree/master/Microsoft/Word)**, **[Excel](https://github.com/CloudReady-ch/QuickLearn/tree/master/Microsoft/Excel)**, **[PowerPoint](https://github.com/CloudReady-ch/QuickLearn/tree/master/Microsoft/PowerPoint)** avec le stockage "Cloud" OneDrive.
+* **[Teams](https://github.com/CloudReady-ch/QuickLearn/tree/master/Microsoft/Teams)**, qui permet la collaboration à travers des canaux thématiques (une branche d'enseignement) via des discussions, avec des fichiers associés, et des webconférences (ou classes en distanciel)
+* **[OneNote](https://github.com/CloudReady-ch/QuickLearn/tree/master/Microsoft/OneNote)**, qui est un des composants d'Office, mais généralement disjoint de la suite habituelle: Word, Excel, Powerpoint.
+* **[Outlook](https://github.com/CloudReady-ch/QuickLearn/tree/master/Microsoft/Outlook)**, qui est le gestionnaire d'emails, en plus de gérer **[calendrier](https://github.com/CloudReady-ch/QuickLearn/tree/master/Microsoft/calendrier)**(s), **[contacts](https://github.com/CloudReady-ch/QuickLearn/tree/master/Microsoft/contacts)** et liste de tâches **[To do](https://github.com/CloudReady-ch/QuickLearn/tree/master/Microsoft/ToDo)**.
 
 ***Discussion**: Le module **SharePoint** est ajouté ci-après, dans les recommandés, mais totalement intégré dans la version Education de Teams. On peut donc se demander s'il n'est pas une "brique élémentaire" requise. Mais comme c'est un composant "complexe", nous l'avons omis volontairement.*
 
 ## Les 5 composants recommandés
 La disponibilité effective des différents composants, va dépendre des configurations dans l'administration du "tenant" du centre/école concerné.
-* **Forms** - permet de générer un questionnaire, et de formatter les réponses dans un tableur. Enquêtes, tests de connaissances, votes ou validations de choix...
-* **Project** - Est rarement disponible car une licence complémentaire, mais pour les métiers d'ingéniérie ou dans l'industrie, du bâtiment, c'est un outil répandu, donc sujet d'un apprentissage recommandé. Gestion et planification de tâches, en mode Gantt.
-* **Lists** - Version Microsoft de AirTable, une alternative à Excel, avec une gestion améliorée des contenus enrichis (URL, images, fichiers)
-* **Whiteboard** - Est un tableau blanc pour les nostalgiques du tableau noir, mais blanc, et plus utile si combiné avec une tablette tactile ou un tableau inter-actif.
-* **SharePoint** - Permet le partage d'espaces de type intranet (contenus publiés, organisés en pages web structurées)
+* **[Forms](https://github.com/CloudReady-ch/QuickLearn/tree/master/Microsoft/Forms)** - permet de générer un questionnaire, et de formatter les réponses dans un tableur. Enquêtes, tests de connaissances, votes ou validations de choix...
+* **[Project](http://project.quicklearn.ch)** - Est rarement disponible car une licence complémentaire, mais pour les métiers d'ingéniérie ou dans l'industrie, du bâtiment, c'est un outil répandu, donc sujet d'un apprentissage recommandé. Gestion et planification de tâches, en mode Gantt.
+* **[Lists](https://github.com/CloudReady-ch/QuickLearn/tree/master/Microsoft/Lists)** - Version Microsoft de AirTable, une alternative à Excel, avec une gestion améliorée des contenus enrichis (URL, images, fichiers)
+* **[Whiteboard](https://github.com/CloudReady-ch/QuickLearn/tree/master/Microsoft/Whiteboard)** - Est un tableau blanc pour les nostalgiques du tableau noir, mais blanc, et plus utile si combiné avec une tablette tactile ou un tableau inter-actif.
+* **[SharePoint](https://github.com/CloudReady-ch/QuickLearn/tree/master/Microsoft/SharePoint)** - Permet le partage d'espaces de type intranet (contenus publiés, organisés en pages web structurées)
 
 ## Les 5 composants à explorer
 Ceci est une recommandation de QuickLearn, mais discutable.
-* **Sway** - Est un outils alternatif à Powerpoint pour faire des exposés ou présentations à la manière d'un [scrapbooking](https://fr.wikipedia.org/wiki/Scrapbooking) (cahier de photos-collées et décoré)
+* **[Sway](https://github.com/CloudReady-ch/QuickLearn/tree/master/Microsoft/Sway)** - Est un outils alternatif à Powerpoint pour faire des exposés ou présentations à la manière d'un [scrapbooking](https://fr.wikipedia.org/wiki/Scrapbooking) (cahier de photos-collées et décoré)
 * **Yammer** - Est un espace simple pour partager des échanges et discussions dans un mode similaire aux groupes "Facebook", mais en interne pour toute l'école.
   * idéal pour créer des animations péri-scolaires, 
   * ou partager des informations inter-classes
