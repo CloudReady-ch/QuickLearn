@@ -29,6 +29,7 @@ Enseignant et apprenants sont connectés depuis leurs ordinateurs privé, et dep
 * L'enseignant doit disposer d'un équipement audio de type "webconférence" (interphone de salon ou speakerphone de visioconférence, type Jabra ou similaire: 100-150 CHF)
 
 # Les composants utilisés
+Sur les 25 composants identifiés (janvier 2021)
 ## Les 10 composants de base
 L'univers M365 pour l'enseignement va inclure assez systématiquement les briques suivantes:
 * Office 365 online avec **OneDrive**: Les versions Web de **Word**, **Excel**, **PowerPoint** avec le stockage "Cloud" OneDrive.
