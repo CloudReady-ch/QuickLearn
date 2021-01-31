@@ -33,8 +33,12 @@ Par la mise en place, il va exister 2 scénarios:
 * l'un où l'administration assure une mise en place des classes/cohortes, 
 * l'autre où la mise en place des classes cohortes est déléguée aux enseignants
 
-Nous ne pensons pas que ce dernier scénario soit une bonne idée. Mais parfois, cela est nécessaire si l'administration ne dispose pas de tous les éléments pour assurer les bonnes constructions de cohortes/classes. Ouvrir les droits aux enseignants à la création de groupes, va paser la constitution et la gestion d'équipes dans Teams.
+Nous ne pensons pas que ce dernier scénario soit une bonne idée. Mais parfois, cela est nécessaire si l'administration ne dispose pas de tous les éléments pour assurer les bonnes constructions de cohortes/classes. Ouvrir les droits aux enseignants à la création de groupes, va utiliser la constitution et la gestion d'équipes dans Teams.
 cf. https://github.com/CloudReady-ch/QuickLearn/blob/master/Microsoft/Teams/enseigner-avec-teams.md
+
+**Attention**: Nous sommes favorables à la libre création de groupes par les enseignants, mais avec une pré-construction des classes selon des conventions de nommages et d'organisations bien établies.
+
+*(L'auteur @pkotte parle en nous, car ce ne sont pas ses idées et avis propres uniquement, mais aussi le résultat de partages avec d'autre formateurs dans le monde professionnel avec http://ISEIG.ch et http://ADISEIG.ch, inclus http://CPI.ch, mais aussi dans l'enseignement obligatoire avec essentiellement le collectif http://EduTIC.ch devenu http://eMITIC.ch)*
 
 # Les composants utilisés
 Sur les 25 composants identifiés (janvier 2021)
