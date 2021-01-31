@@ -1,8 +1,8 @@
 # Donner des formations (à distance) via Teams (Microsoft 365)
 
-Former les formateurs, avant même de former les utilisateurs, pour utiliser Teams afin de donner des formations à distance (mais pourrait aussi en présentiel), n'est en fait qu'un usage spécifique d'utiliser Teams.
+Former les formateurs, avant même de former les utilisateurs, pour utiliser Teams afin de donner des formations à distance (mais pourrait aussi utilisé en présentiel), n'est en fait qu'un usage spécifique d'utiliser Teams, outil générique de collaborations assistées par ordinateurs via l'Internet.
 
-Le contexte "Corona" accélère et augmente le besoin de la partie "à distance".
+Le contexte "Corona" accélère et augmente le besoin de la capacité "à distance".
 
 ## contextes opérationnels
 ### L'administration des cohortes/classes déléguées aux enseignants (maîtres de classes/doyens) ou centralisée
@@ -33,7 +33,11 @@ Elle est généralement planifiée et préparée dans M365: https://github.com/C
 ## Classe d'invités
 Il est possible de constituer une classe d'externes invités, sans créer de comptes internes.
 * C'est une façon simple de procéder avec une installation standard pour limiter les droits. Les invités ne peuvent pas créer d'équipes.
-* La stratégie de Microsoft est de créer des limitations dans les droits de créer des groupes (ouverts par défaut): cf. https://docs.microsoft.com/fr-fr/microsoft-365/solutions/manage-creation-of-groups?view=o365-worldwide
+* La stratégie de Microsoft est toutefois normalement de créer des limitations dans les droits de créer des groupes (ouverts par défaut): 
+  * Admnins cf. https://docs.microsoft.com/fr-fr/microsoft-365/solutions/manage-creation-of-groups?view=o365-worldwide
+
+Mais cette option permet aussi d'ajouter des participants externes dans une classe. Si cette option n'a pas été interdite par la stratégie au sein de l'école/établissement dépositaire de la licence et administrateur ce que nous appelons un "tenant" Microsoft 365 (un locataire).
+
 
 ## Devoirs et barèmes
 Ce composant de Teams, présent par défaut, peu dérouter les enseignants débutants sur Teams. Cela peut représenter une montagne pour partie d'entre eux.
@@ -49,6 +53,7 @@ Ben tu peux pas les désactiver. En tout cas, pas de façon évidente.
 ## Notre blog Quicklearn
 * https://medium.com/quicklearn/teams-microsoft-365-a88575f7b11
 ## Microsoft
+* Démo présentation 3mn: https://www.microsoft.com/videoplayer/embed/59580456-d146-44fd-8e4c-940d10be442c?autoplay=false 
 * [5 pages EN](https://github.com/CloudReady-ch/QuickLearn/blob/master/Microsoft/Teams/Teams%20QS.pdf)
 * [16 pages FR education, fiches enseignant](https://github.com/CloudReady-ch/QuickLearn/blob/master/Microsoft/Teams/TeamsforEducation_QuickGuide.pdf)
 * Formation instructeurs Teams: https://docs.microsoft.com/fr-FR/microsoftteams/instructor-led-training-teams-landing-page?.mc_id=TeamsAdminCenterCSH
