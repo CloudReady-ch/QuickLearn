@@ -28,6 +28,14 @@ Enseignant et apprenants sont connectés depuis leurs ordinateurs privé, et dep
 * Les mêmes équipements que précédemment, mais sans l'obligation de la connexion audio (micro, HP) pour les apprenants
 * L'enseignant doit disposer d'un équipement audio de type "webconférence" (interphone de salon ou speakerphone de visioconférence, type Jabra ou similaire: 100-150 CHF)
 
+## Les mises en scène
+Par la mise en place, il va exister 2 scénarios:
+* l'un où l'administration assure une mise en place des classes/cohortes, 
+* l'autre où la mise en place des classes cohortes est déléguée aux enseignants
+
+Nous ne pensons pas que ce dernier scénario soit une bonne idée. Mais parfois, cela est nécessaire si l'administration ne dispose pas de tous les éléments pour assurer les bonnes constructions de cohortes/classes. Ouvrir les droits aux enseignants à la création de groupes, va paser la constitution et la gestion d'équipes dans Teams.
+cf. https://github.com/CloudReady-ch/QuickLearn/blob/master/Microsoft/Teams/enseigner-avec-teams.md
+
 # Les composants utilisés
 Sur les 25 composants identifiés (janvier 2021)
 ## Les 10 composants de base
