@@ -32,7 +32,8 @@ Elle est généralement planifiée et préparée dans M365: https://github.com/C
 
 ## Classe d'invités
 Il est possible de constituer une classe d'externes invités, sans créer de comptes internes.
-* TK
+* C'est une façon simple de procéder avec une installation standard pour limiter les droits. Les invités ne peuvent pas créer d'équipes.
+* La stratégie de Microsoft est de créer des limitations dans les droits de créer des groupes (ouverts par défaut): cf. https://docs.microsoft.com/fr-fr/microsoft-365/solutions/manage-creation-of-groups?view=o365-worldwide
 
 ## Devoirs et barèmes
 Ce composant de Teams, présent par défaut, peu dérouter les enseignants débutants sur Teams. Cela peut représenter une montagne pour partie d'entre eux.
