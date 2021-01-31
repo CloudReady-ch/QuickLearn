@@ -7,7 +7,7 @@ Il existe 2 scénarios, qui déclinent un troisième scénario:
 
 Quels équipements requis? Puis quelles compétences.
 
-### distanciel
+### Cours en distanciel
 Enseignant et apprenants sont connectés depuis leurs ordinateurs privé, et depuis le domicile. Cela nécessite les équipements matériels et périphériques suivants:
 * Un ordinateur fixe ou portable (laptop), Mac, windows ou Linux, ou encore une tablette Chromebook, Android ou iPad (iOS).
   * Un smartphone peut "dépanner" mais son usage n'est pas approprié pour suivre correctement une formation complète.
@@ -18,13 +18,13 @@ Enseignant et apprenants sont connectés depuis leurs ordinateurs privé, et dep
   * Optionnel: Webcam, souvent équipée du microphone pour les webcam à ajouter sur un ordinateur fixe.
   * Pour certaines cohorte/classe, l'identification visuelle de l'apprenant est imposée, et dès lors, la webcam obligatoire (20-40 CHF).
 
-### présentiel
+### Cours présentiel
 * Les mêmes équipements que précédemment, mais sans l'obligation de la connexion audio (micro, HP)
   * Les bases des documents de cours sont alors partagés et accessibles via l'ordinateur
   * En option: Travaux collectifs via l'ordinateur
   * En option: le mode "discussion" (chat) va être exploité
 
-### mixe présentiel et distanciel
+### Cours mixe présentiel et distanciel
 * Les mêmes équipements que précédemment, mais sans l'obligation de la connexion audio (micro, HP) pour les apprenants
 * L'enseignant doit disposer d'un équipement audio de type "webconférence" (interphone de salon ou speakerphone de visioconférence, type Jabra ou similaire: 100-150 CHF)
 
