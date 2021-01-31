@@ -1,4 +1,4 @@
-# Comment un enseignant peut-il utiliser Microsoft 365, surtout en situation de pandémie?
+# Comment un enseignant peut-il utiliser Microsoft 365 (M365), surtout en situation de pandémie?
 ## Les 3 scènes possibles
 Il existe 2 scénarios, qui déclinent un troisième scénario:
 1. Utilisation pour donner un cours en distanciel
