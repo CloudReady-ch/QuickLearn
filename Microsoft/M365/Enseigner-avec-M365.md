@@ -67,6 +67,7 @@ Ceci est une recommandation de QuickLearn, mais discutable.
   * ou partager des informations inter-classes
 * **Streams** - Va permettre une troisième de présentations, la vidéo, par enregistrement directement, webcam ou copie d'un écran, ou pour importer une vidéo montée à part.
 * **Video** - Et oui, grosso modo, la même chose que Streams, mais différent. Pas de capture ou enregistrement en ligne, uniquement upload.
+  * Par défaut, seuls les enseignants y ont accès.
 * **Planner** - Une autre façon de gérer et distribuer des tâches, en mode [Kanban](https://fr.wikipedia.org/wiki/Kanban_(d%C3%A9veloppement)) issue du monde [Agile](https://fr.wikipedia.org/wiki/M%C3%A9thode_agile)
 
 ## Les 5 composants accessoires
