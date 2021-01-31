@@ -10,7 +10,7 @@ Quels équipements requis? Puis quelles compétences.
 ### Cours en distanciel
 Enseignant et apprenants sont connectés depuis leurs ordinateurs privé, et depuis le domicile. Cela nécessite les équipements matériels et périphériques suivants:
 * Un ordinateur fixe ou portable (laptop), Mac, windows ou Linux, ou encore une tablette Chromebook, Android ou iPad (iOS).
-  * Un smartphone peut "dépanner" mais son usage n'est pas approprié pour suivre correctement une formation complète.
+  * Un smartphone peut "dépanner" mais son usage est généralement peu approprié pour la plupart des formations.
 * Une connexion à l'Internet
 * un identifiant opérationnel sur Office.com et enregistré dans la classe/cohorte de formation
 * Des hauts-parleurs: a ne pas confondre HP et micro. L'ordinateur doit être capable de délivrer le son d'une lecture d'une vidéo Youtube par exemple.
@@ -25,11 +25,16 @@ Enseignant et apprenants sont connectés depuis leurs ordinateurs privé, et dep
   * En option: le mode "discussion" (chat) va être exploité
 
 ### Cours mixe présentiel et distanciel
-* Les mêmes équipements que précédemment, mais sans l'obligation de la connexion audio (micro, HP) pour les apprenants
+Il est intéressant d'intégrer les outils numériques pour aller plus loin que de simplement connecter à distance une partie des apprenants. Les supports doivent être disponibles sur les espaces numériques, et les devoirs y être déposés. Mais on peut aussi apporter une dynamique de classe intégrative des participants distants, par exemple, au lieu de poser une question spontanée à l'un seulement de la classe, de la poser "à tous" et déclencher une réponse "à 20 secondes, au top" tout le monde valide et envoie sa réponse sur le chat et les 24 participants répondent, au vu de tous et de l'enseignant. L'utilisation de questionnaires électroniques permet aussi une participation accrue de tous, voir une méthode de validation des acquis et tests notés. Il est nécessaire de disposer:
+* Les mêmes équipements que précédemment, mais sans l'obligation de la connexion audio (micro, HP) pour les apprenants en présentiel, uniquement les distants.
 * L'enseignant doit disposer d'un équipement audio de type "webconférence" (interphone de salon ou speakerphone de visioconférence, type Jabra ou similaire: 100-150 CHF)
   * pour des raisons techniques de risques d'[effet Larsen](https://fr.wikipedia.org/wiki/Effet_Larsen), 
   * tous les micros de la même salle doivent être désactivés excepté un seul, et un seul haut-parleur (celui de l'enseignant, avec écho-annulateur)
   * Les micro-casques ne résolvent pas le problème excepté si l'enseignant lui-même en est équippé (aucun haut-parleur), mais c'est gênant pour les présents.
+* Si des apprenants distants sont collectivement dans une même pièce distante, c'est les mêmes contraintes que pour la classe en présentiel
+  * un seul microphone pour la salle (de préférence de bonne qualité et adapté à une prise d'ambiance)
+  * un seul haut-parleur pour la salle
+  * chaque participant son propre ordinateur, avec sa propre caméra, mais micro et haut-parleurs désactivés.
  
 ## Les mises en scène
 Par la mise en place, il va exister 2 scénarios:
