@@ -27,7 +27,10 @@ Enseignant et apprenants sont connectés depuis leurs ordinateurs privé, et dep
 ### Cours mixe présentiel et distanciel
 * Les mêmes équipements que précédemment, mais sans l'obligation de la connexion audio (micro, HP) pour les apprenants
 * L'enseignant doit disposer d'un équipement audio de type "webconférence" (interphone de salon ou speakerphone de visioconférence, type Jabra ou similaire: 100-150 CHF)
-
+  * pour des raisons techniques de risques d'[effet Larsen](https://fr.wikipedia.org/wiki/Effet_Larsen), 
+  * tous les micros de la même salle doivent être désactivés excepté un seul, et un seul haut-parleur (celui de l'enseignant, avec écho-annulateur)
+  * Les micro-casques ne résolvent pas le problème excepté si l'enseignant lui-même en est équippé (aucun haut-parleur), mais c'est gênant pour les présents.
+ 
 ## Les mises en scène
 Par la mise en place, il va exister 2 scénarios:
 * l'un où l'administration assure une mise en place des classes/cohortes, 
