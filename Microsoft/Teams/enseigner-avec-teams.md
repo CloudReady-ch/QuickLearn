@@ -4,10 +4,17 @@ Former les formateurs, avant même de former les utilisateurs, pour utiliser Tea
 
 Le contexte "Corona" accélère et augmente le besoin de la partie "à distance".
 
-Il y a (principalement) 2 contextes différents pour donner une formation à distance via Teams:
+## contextes opérationnels
+### L'administration des cohortes/classes déléguées aux enseignants (maîtres de classes/doyens) ou centralisée
+Il y a (principalement) 2 contextes organisationnels différents pour donner une formation à distance via Teams:
 1. Participants enregistrés et identifiés, membres dans Microsoft 365 (classes annuelles)
 2. Participants non pré-enregistrés, invités par le formateur (ou le centre).
+### L'aministration des 
 
+## Meilleurs pratiques pour les centres/écoles
+
+
+# Apprendre à enseigner avec Teams
 ## Classe pré-enregistrée
 
 ### La gestion des inscriptions et des participants
@@ -18,6 +25,12 @@ Elle est préparée dans M365: https://github.com/CloudReady-ch/QuickLearn/blob/
 ## Classe d'invités
 
 * TK
+
+## Devoirs et barèmes
+
+### options des administrateurs Teams
+Ben tu peux pas les désactiver. En tout cas, pas de façon évidente.
+* https://docs.microsoft.com/fr-fr/microsoftteams/expand-teams-across-your-org/assignments-in-teams
 
 # Sources externes, inspirations
 ## Notre blog Quicklearn
