@@ -13,10 +13,10 @@ Enseignant et apprenants sont connectés depuis leurs ordinateurs privé, et dep
   * Un smartphone peut "dépanner" mais son usage est généralement peu approprié pour la plupart des formations.
 * Une connexion à l'Internet
 * un identifiant opérationnel sur Office.com et enregistré dans la classe/cohorte de formation
-* Des hauts-parleurs: a ne pas confondre HP et micro. L'ordinateur doit être capable de délivrer le son d'une lecture d'une vidéo Youtube par exemple.
-* Un microphone (intégré sur tablette ou portable, ou ajouté sur PC fixe, souvent incluse dans une webcam sur port USB) - 
-  * Optionnel: Webcam, souvent équipée du microphone pour les webcam à ajouter sur un ordinateur fixe.
-  * Pour certaines cohorte/classe, l'identification visuelle de l'apprenant est imposée, et dès lors, la webcam obligatoire (20-40 CHF).
+* Des hauts-parleurs (HP): a ne pas confondre HP et micro. L'ordinateur doit être capable de délivrer le son d'une lecture d'une vidéo Youtube par exemple.
+* Un microphone (intégré sur tablette ou portable, ou ajouté sur PC fixe, souvent incluse dans une webcam sur port USB), est nécessaire pour répondre oralement.
+  * Optionnel: Webcam (souvent équipée du microphone pour les webcam à ajouter sur un ordinateur fixe, interface port USB recommandé, 20-40 CHF).
+  * Pour certaines cohorte/classe, l'identification visuelle de l'apprenant est imposée, et dès lors, la webcam est obligatoire.
 
 ### Cours présentiel
 * Les mêmes équipements que précédemment, mais sans l'obligation de la connexion audio (micro, HP)
