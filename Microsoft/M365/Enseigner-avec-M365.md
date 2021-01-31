@@ -49,6 +49,8 @@ L'univers M365 pour l'enseignement va inclure assez systématiquement les brique
 * **OneNote**, qui est un des composants d'Office, mais généralement disjoint de la suite habituelle: Word, Excel, Powerpoint.
 * **Outlook**, qui est le gestionnaire d'emails, en plus de gérer **calendrier**(s), **contacts** et liste de tâches **To do**.
 
+***Discussion**: Le module sharePoint" est ajouté ci-après, dans les recommandés, mais totalement intégré dans la version Education de Teams. On peut donc se demander s'il n'est pas une "brique élémentaire" requise. Mais comme c'est un composant "complexe", nous l'avons omis volontairement.*
+
 ## Les 5 composants recommandés
 La disponibilité effective des différents composants, va dépendre des configurations dans l'administration du "tenant" du centre/école concerné.
 * **Forms** - permet de générer un questionnaire, et de formatter les réponses dans un tableur. Enquêtes, tests de connaissances, votes ou validations de choix...
