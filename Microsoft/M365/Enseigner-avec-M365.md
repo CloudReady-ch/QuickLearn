@@ -111,5 +111,8 @@ Lors de la constitution d'équipes pour une classe, sur des formations qui duren
   * L'enseignant n'en dispose pas, l'apprenant dispose d'un profil avec email secondaire ou mobile, avec un self-service disponible.
   * La récupération n'est pas disponible: L'apprenant doit suivre la formation en doublon avec un camarade, un ticket de récupération est ouvert.
 
-# Les points d'attentions requis
+# Les points d'attention requis
 * Les informations de téléphones mobiles et emails secondaires sont par défaut partagés et visibles dans tous le centre/école, sinon au sein d'une classe/cohorte. C'est parfois un frein à la saisie de ces données pour assurer une récupération de mot de passe, car cette "visibilité" doit être annoncée au moment de la "saisie" par l'usager.
+
+## Solutions alternatives
+* Webconférence: http://webconf.kotte.net/
