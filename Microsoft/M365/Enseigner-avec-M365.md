@@ -57,7 +57,8 @@ La disponibilité effective des différents composants, va dépendre des configu
 * **Whiteboard** - Est un tableau blanc pour les nostalgiques du tableau noir, mais blanc, et plus utile si combiné avec une tablette tactile ou un tableau inter-actif.
 * **SharePoint** - Permet le partage d'espaces de type intranet (contenus publiés, organisés en pages web structurées)
 
-## Les 5 composant à explorer
+## Les 5 composants à explorer
+Ceci est une recommandation de QuickLearn, mais discutable.
 * **Sway** - Est un outils alternatif à Powerpoint pour faire des exposés ou présentations à la manière d'un [scrapbooking](https://fr.wikipedia.org/wiki/Scrapbooking) (cahier de photos-collées et décoré)
 * **Yammer** - Est un espace simple pour partager des échanges et discussions dans un mode similaire aux groupes "Facebook", mais en interne pour toute l'école.
   * idéal pour créer des animations péri-scolaires, 
