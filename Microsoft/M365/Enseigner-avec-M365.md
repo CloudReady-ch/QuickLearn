@@ -5,6 +5,8 @@ Il existe 2 scénarios, qui déclinent un troisième scénario:
 2. Utilisation pour donner un cours en présentiel
 3. Utilisation pour donner un cours partie en présentiel, partie en distanciel.
 
+Quels équipements requis? Puis quelles compétences.
+
 ### distanciel
 Enseignant et apprenants sont connectés depuis leurs ordinateurs privé, et depuis le domicile. Cela nécessite les équipements matériels et périphériques suivants:
 * Un ordinateur fixe ou portable (laptop), Mac, windows ou Linux, ou encore une tablette Chromebook, Android ou iPad (iOS).
