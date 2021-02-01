@@ -92,7 +92,7 @@ La disponibilité effective des différents composants, va dépendre des configu
 ## Compétences requises (niveau 1)
 
 ### Savoir créer/vérifier la présence complète de la cohorte/classe dans Teams
-Lors de la constitution d'équipes pour une classe, sur des formations qui durent plus d'une année, il est judicieux de créer des cohortes, surtout si des références aux apprentissages précédents sont nécessaires pour les années suivantes. Les matières à options comprenant un regroupement de multiples classes, disposent généralement de leur propre équipe Teams. Généralement, un ou plusieurs modèle(s) de création de classe/cohorte sont proposé
+Lors de la constitution d'équipes pour une classe, sur des formations qui durent plus d'une année, il est judicieux de créer des cohortes, surtout si des références aux apprentissages précédents sont nécessaires pour les années suivantes. Les matières à options comprenant un regroupement de multiples classes, disposent généralement de leur propre équipe Teams. Généralement, un ou plusieurs modèle(s) de création de classe/cohorte sont proposés, ou pas.
 * Création ou vérification d'une classe/cohorte avant le premier cours.
 * Création des canaux manquants (généralement préétablis dans les modèles)
 * Création des espaces optionnels associés aux canaux (généralement inclus dans les modèles)
@@ -101,15 +101,36 @@ Lors de la constitution d'équipes pour une classe, sur des formations qui duren
 #### Etablir une connection
 * Je connais mes identificants et le site de connexion nécessaire: http://office.com 
 * Récupérer un mot de passe: Nécessite que le centre/école a activé cette option en self-service, et que le profil enseignant dispose d'une information d'identification alternative (numéro de mobile, email secondaire)
+  * idem pour les étudiants.
 
 #### Accompagner les apprenants à se connecter
 * Je connais les identifications des apprenants et je peux les guider. 
-  * L'enseignant ne dispose pas de leur mot de passe, 
-  * sauf parfois, sur une création initiale: Et le mot de passe est imposé à être changé, et le profil à être immédiatement complété avec email secondaire et mobile.
+  * L'enseignant ne dispose pas des mots de passe de l'étudiant.
+  * sauf parfois, sur une création initiale: Et le mot de passe est imposé à être changé, 
+  * et le profil à être immédiatement complété avec email secondaire et mobile (recommandé).
 * Récupération des identifications, et du mot de passe:
-  * L'enseignant dispose du droit de gérer/resetter les mots de passe des apprenants
+  * L'enseignant dispose du droit de gérer/resetter les mots de passe des apprenants, ou l'étudiant en self-service.
   * L'enseignant n'en dispose pas, l'apprenant dispose d'un profil avec email secondaire ou mobile, avec un self-service disponible.
   * La récupération n'est pas disponible: L'apprenant doit suivre la formation en doublon avec un camarade, un ticket de récupération est ouvert.
+
+### Etre apte à communiquer et partager
+* Je peux échanger avec un groupe, ou une seule personne en privé, par "chat" (micro-message) ou bien via une *webcall*.
+* Je peux partager des notes et des fichiers
+  * Via OneDrive
+  * Via Teams
+  * Via SharePoint
+  
+### Etre apte à modifier les conditions de notifications.
+  
+## Compétences niveau 2
+* Etablir un questionnaire et le noter
+* Créer un devoir et des barèmes
+  * l'assigner, 
+  * le recevoir,
+  * le noter.
+
+## Compétences niveau 3
+* TK
 
 # Les points d'attention requis
 * Les informations de téléphones mobiles et emails secondaires sont par défaut partagés et visibles dans tous le centre/école, sinon au sein d'une classe/cohorte. C'est parfois un frein à la saisie de ces données pour assurer une récupération de mot de passe, car cette "visibilité" doit être annoncée au moment de la "saisie" par l'usager.
