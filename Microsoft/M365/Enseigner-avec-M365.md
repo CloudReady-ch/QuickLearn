@@ -72,19 +72,19 @@ La disponibilité effective des différents composants, va dépendre des configu
 ## Les 5 composants à explorer
 Ceci est une recommandation de QuickLearn, mais discutable.
 * **[Sway](https://github.com/CloudReady-ch/QuickLearn/tree/master/Microsoft/Sway)** - Est un outils alternatif à Powerpoint pour faire des exposés ou présentations à la manière d'un [scrapbooking](https://fr.wikipedia.org/wiki/Scrapbooking) (cahier de photos-collées et décoré)
-* **Yammer** - Est un espace simple pour partager des échanges et discussions dans un mode similaire aux groupes "Facebook", mais en interne pour toute l'école.
+* **[Yammer](https://github.com/CloudReady-ch/QuickLearn/tree/master/Microsoft/Yammer)** - Est un espace simple pour partager des échanges et discussions dans un mode similaire aux groupes "Facebook", mais en interne pour toute l'école.
   * idéal pour créer des animations péri-scolaires, 
   * ou partager des informations inter-classes
-* **Streams** - Va permettre une troisième de présentations, la vidéo, par enregistrement directement, webcam ou copie d'un écran, ou pour importer une vidéo montée à part.
-* **Video** - Et oui, grosso modo, la même chose que Streams, mais différent. Pas de capture ou enregistrement en ligne, uniquement upload.
+* **[Streams](https://github.com/CloudReady-ch/QuickLearn/tree/master/Microsoft/Streams)** - Va permettre une troisième de présentations, la vidéo, par enregistrement directement, webcam ou copie d'un écran, ou pour importer une vidéo montée à part.
+* **[Video](https://github.com/CloudReady-ch/QuickLearn/tree/master/Microsoft/Video)** - Et oui, grosso modo, la même chose que Streams, mais différent. Pas de capture ou enregistrement en ligne, uniquement upload.
   * Par défaut, seuls les enseignants y ont accès.
-* **Planner** - Une autre façon de gérer et distribuer des tâches, en mode [Kanban](https://fr.wikipedia.org/wiki/Kanban_(d%C3%A9veloppement)) issue du monde [Agile](https://fr.wikipedia.org/wiki/M%C3%A9thode_agile)
+* **[Planner](https://github.com/CloudReady-ch/QuickLearn/tree/master/Microsoft/Planner)** - Une autre façon de gérer et distribuer des tâches, en mode [Kanban](https://fr.wikipedia.org/wiki/Kanban_(d%C3%A9veloppement)) issue du monde [Agile](https://fr.wikipedia.org/wiki/M%C3%A9thode_agile)
 
 ## Les 5 composants accessoires
-La disponibilité effective des différents composants, va dépendre des configurations dans l'administration du "tenant" du centre/école concerné.
+La disponibilité effective des différents composants, va dépendre des configurations dans l'administration du "tenant" du centre/école concerné. L'application Kaizala est intéressante, mais les utilisateurs sont déjà sur Whatsapp, ou plus intelligemment sur Telegram ou Signal, et n'ont guère besoin d'en plus utiliser Kaizala.
 * **Delve** - va faciliter l'exploration des documentations existantes, ou dans ses propres productions, pour les retrouver plus facilement aussi...
 * **Dynamics 365** - Est un icône marketing pour promouvoir un espace marchand (*apps marketplace*)
-* **Kaizala** - Est la version Microsoft de Whatsapp, et nous recommandons l'usage de Signal à la place (cf. http://whatsapp.kotte.net)
+* **[Kaizala](https://github.com/CloudReady-ch/QuickLearn/tree/master/Microsoft/Kaizala)** - Est la version Microsoft de Whatsapp, et nous recommandons l'usage de Signal à la place (cf. http://whatsapp.kotte.net)
 * **Power Apps** - Va permettre de créer des applications "mobiles" simples à partir de données structurées par exemple.
 * **Power Automate** - Va lui permettre de créer des automatisations dans la transmission de donnés ou déclenchement d'opérations sur des évènements (email, forms...)
 
