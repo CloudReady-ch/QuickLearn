@@ -25,7 +25,7 @@ Première étape, créer un groupe de sécurité, avec ou sans email (bonne idé
 
 ### Customisation du script joint
 C'est tellement imprévu par Microsoft, qu'il faut modifier les droits avec un script qui semble faire 1 boucle sur plusieurs groupes (Si qq'1 sait lire du PS, je suis preneur d'explications, car trouvé la recette mais sans le décodage).
-* Gérer les personnes qui peuvent créer des groupes Microsoft 365 | Microsoft Docs
+* [Gérer les personnes qui peuvent créer des groupes Microsoft 365 | Microsoft Docs](https://docs.microsoft.com/fr-fr/microsoft-365/solutions/manage-creation-of-groups?view=o365-worldwide)
 
 ## Normaliser les noms de Groupes (équipes)
 Cela peut être un poil pénible, si tu crées une équipe, tu as envie de prendre un nom sympa et compréhensible, mais pour qui? Dans Teams c'est le nom des projets et des équipes, pour l'IT, cela va générer des groupes dans la base et on aimerait des noms de groupes qui facilitent leur tri et identification. Pour cela, on fait des conventions de nommage.
@@ -34,4 +34,7 @@ Cela peut être un poil pénible, si tu crées une équipe, tu as envie de prend
 On peut aussi imposer des règles de nommages, dans 365.
 * TK
 
-Mais faudrait-il le faire? Ou laisser la liberté de nommer les équipes, selon leur sens?
+Mais faudrait-il le faire? Ou laisser la liberté de nommer les équipes, selon leur sens? 
+* Limiter les droits de création à une partie de l'équipe, 
+* et les réunir pour prendre un moment pour un briefing sur la façon de nommer les groupes, 
+* et des bases de la communication explicite et univoque.
