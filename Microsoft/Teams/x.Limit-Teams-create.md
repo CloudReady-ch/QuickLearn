@@ -21,11 +21,17 @@ Première étape, créer un groupe de sécurité, avec ou sans email (bonne idé
   * **NESTING LIMITATION**
   * **Attention**: Avec Microsoft Azure/365, tu dois faire des groupes sécurité avec alias emails si tu veux l'imbriquer dans un groupe de même.
   * Oui chez Microsoft, non seulement tu ne peux pas imbriquer des groupes 365, mais pas des groupes avec alias dans un groupe sans, et(ou) inversement...
-6. 
+6. Nommer et documenter ce groupe
+7. Y ajouter les personnes autorisées: **Membres": Afficher tout et gérer les membres.
+  * **Attention**: Si c'est un groupe 365, et qu'un propriétaire doit aussi en disposer des droits, il faut en plus de le mettre propriétaire, il faut le mettre membre.
+8. Exécuter le script ci-après.
 
 ### Customisation du script joint
 C'est tellement imprévu par Microsoft, qu'il faut modifier les droits avec un script qui semble faire 1 boucle sur plusieurs groupes (Si qq'1 sait lire du PS, je suis preneur d'explications, car trouvé la recette mais sans le décodage).
 * [Gérer les personnes qui peuvent créer des groupes Microsoft 365 | Microsoft Docs](https://docs.microsoft.com/fr-fr/microsoft-365/solutions/manage-creation-of-groups?view=o365-worldwide)
+1. Copier ce scipt: https://github.com/CloudReady-ch/QuickLearn/blob/master/Microsoft/Teams/Groups-Creators.ps1
+2. Modifier pour remplacer "it-groups-creators" avec le nom effectivement utilisé pour autoriser la création d'une équipe.
+3. Exécuter le script dans un fenêtre "Powershell ISE" (Nécessite de s'identifier avec un compte Microsoft 365 autorisé pendant l'exécution)
 
 ## Normaliser les noms de Groupes (équipes)
 Cela peut être un poil pénible, si tu crées une équipe, tu as envie de prendre un nom sympa et compréhensible, mais pour qui? Dans Teams c'est le nom des projets et des équipes, pour l'IT, cela va générer des groupes dans la base et on aimerait des noms de groupes qui facilitent leur tri et identification. Pour cela, on fait des conventions de nommage.
