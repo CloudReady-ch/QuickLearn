@@ -51,7 +51,7 @@ Mais faudrait-il le faire? Ou laisser la liberté de nommer les équipes, selon 
   * On peut bloquer quelques options pour les appels, les vidéos, la messagerie.
 * Autres infos
   * Vérifier aussi dans Azure: https://docs.microsoft.com/fr-fr/microsoft-365/solutions/collaborate-as-team?view=o365-worldwide
-    * External collaboration settings
+    * External collaboration settings (Azure Active Directory)
 
 ## Limiter les domaines externes
 Par défaut c'est tout ouvert, mais on peut gérer une liste "blanche" de domaines autorisés, ou une liste "noire" des domaines interdits.
