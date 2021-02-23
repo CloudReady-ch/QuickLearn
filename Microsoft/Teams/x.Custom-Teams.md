@@ -51,6 +51,7 @@ Mais faudrait-il le faire? Ou laisser la liberté de nommer les équipes, selon 
   * On peut bloquer quelques options pour les appels, les vidéos, la messagerie.
 * Autres infos
   * https://docs.microsoft.com/fr-fr/microsoftteams/guest-access
+  * Mieux sécuriser le contrôle des invitées: https://docs.microsoft.com/fr-fr/azure/active-directory/external-identities/one-time-passcode
   * Vérifier aussi dans Azure: https://docs.microsoft.com/fr-fr/microsoft-365/solutions/collaborate-as-team?view=o365-worldwide
     * External collaboration settings (Azure Active Directory)
 
