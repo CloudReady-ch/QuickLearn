@@ -50,6 +50,7 @@ Mais faudrait-il le faire? Ou laisser la liberté de nommer les équipes, selon 
   * Paramètres échelle organisation - Accès invité: Par défaut c'est activé, à la base.
   * On peut bloquer quelques options pour les appels, les vidéos, la messagerie.
 * Autres infos
+  * https://docs.microsoft.com/fr-fr/microsoftteams/guest-access
   * Vérifier aussi dans Azure: https://docs.microsoft.com/fr-fr/microsoft-365/solutions/collaborate-as-team?view=o365-worldwide
     * External collaboration settings (Azure Active Directory)
 
