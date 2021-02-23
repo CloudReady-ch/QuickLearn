@@ -7,3 +7,4 @@
 * [Manage Office 365 with Office 365 PowerShell](https://docs.microsoft.com/en-us/office365/enterprise/powershell/manage-office-365-with-office-365-powershell)
 
 # FAQ Azure
+https://github.com/CloudReady-ch/ISEIG-LAB/blob/master/AZURE/Azure-FAQ.md
