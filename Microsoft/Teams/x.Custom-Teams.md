@@ -44,3 +44,17 @@ Mais faudrait-il le faire? Ou laisser la liberté de nommer les équipes, selon 
 * Limiter les droits de création à une partie de l'équipe, 
 * et les réunir pour prendre un moment pour un briefing sur la façon de nommer les groupes, 
 * et des bases de la communication explicite et univoque.
+
+## Autoriser les invités
+* Ouvrir la console admin Teams: https://admin.teams.microsoft.com/company-wide-settings/guest-configuration
+  * Paramètres échelle organisation - Accès invité: Par défaut c'est activé, à la base.
+  * On peut bloquer quelques options pour les appels, les vidéos, la messagerie.
+* Autres infos
+  * Vérifier aussi dans Azure: https://docs.microsoft.com/fr-fr/microsoft-365/solutions/collaborate-as-team?view=o365-worldwide
+    * External collaboration settings
+
+## Limiter les domaines externes
+Par défaut c'est tout ouvert, mais on peut gérer une liste "blanche" de domaines autorisés, ou une liste "noire" des domaines interdits.
+* Attention: Dès qu'un domaine est "autorisé", alors cela devient une liste blanche et tous les autres domaines sont bloqués, explicités ou pas. Il faut alors autoriser les domaines un par un.
+* Cf. console admin: https://admin.teams.microsoft.com/company-wide-settings/external-communications
+  * https://docs.microsoft.com/fr-fr/microsoftteams/manage-external-access#let-your-teams-users-chat-and-communicate-with-users-in-another-organization
