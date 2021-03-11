@@ -1,12 +1,11 @@
 # EPAI Fribourg
-
-Mode opératoire pour valider l'état de préparation à une rentrée numérique, ou bien des apprentissages distanciels ou encore mixes à l'EPAI (https://www.fr.ch/epai)
-
-***NB. Pour le moment la rédaction d'un exercice de validation n'est pas encore disponible, faute d'un accès enseignant avec les droits de créer une classe à l'identique, et un compte étudiant de test utilisable, et probablement un compte prof secondaire invité (ce qui semble être correctement le cas du compte pascal.kotte@cpi.ch) reconnu edufr.ch***
-* Le compte de validation: pascal.kotte@cpi.ch ne peut pas créer d'équipe, il a juste pu faire une demande pour pouvoir le faire.
-* Le compte de test étudiant: tschanezbt@studentfr.ch impose une identification double facteur (et donc un mobile).
+Préparation à une rentrée numérique, ou bien des apprentissages distanciels ou encore mixes à l'EPAI (https://www.fr.ch/epai) ou toutes écoles sur EduFR.
 
 ## Niveau 1 - compétences de base
+### se connecter
+* https://medium.com/quicklearn/se-connecter-%C3%A0-365-microsoft-office-f1ac2e5d87fa
+### aider à se connecter
+* https://medium.com/quicklearn/se-connecter-%C3%A0-365-microsoft-office-f1ac2e5d87fa
 Constitution des classes ou cohortes
 ### Les maîtres de classes sont en charge de créer les classes
 * Merci de procéder puis de confirmer que vous avez pu constituer vos premières classes ou une classe de test
