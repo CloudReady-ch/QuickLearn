@@ -30,6 +30,7 @@ Il est intéressant d'intégrer les outils numériques pour aller plus loin que 
 * L'enseignant doit disposer d'un équipement audio de type "webconférence" (interphone de salon ou speakerphone de visioconférence, type Jabra ou similaire: 100-150 CHF)
   * pour des raisons techniques de risques d'[effet Larsen](https://fr.wikipedia.org/wiki/Effet_Larsen), 
   * tous les micros de la même salle doivent être désactivés excepté un seul, et un seul haut-parleur (celui de l'enseignant, avec écho-annulateur)
+    * Rappel: Dès la présence de 2 hauts-parleurs dans la même pièce, même avec 1 seul micro activé, Larsen assuré.
   * Les micro-casques ne résolvent pas le problème excepté si l'enseignant lui-même en est équippé (aucun haut-parleur), mais c'est gênant pour les présents.
 * Si des apprenants distants sont collectivement dans une même pièce distante, c'est les mêmes contraintes que pour la classe en présentiel
   * un seul microphone pour la salle (de préférence de bonne qualité et adapté à une prise d'ambiance)
