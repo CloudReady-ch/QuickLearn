@@ -138,3 +138,6 @@ Lors de la constitution d'équipes pour une classe, sur des formations qui duren
 
 ## Solutions alternatives
 * Webconférence: http://webconf.kotte.net/
+
+## Réflexions et prise de recul
+* https://medium.com/quicklearn/education-et-libert%C3%A9-num%C3%A9rique-ec09608d9e6f
