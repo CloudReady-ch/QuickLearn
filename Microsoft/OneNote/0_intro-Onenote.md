@@ -11,3 +11,4 @@ Le formateur va créer un Bloc-note dans le canal, ou utiliser le bloc-note de c
 * ils doivent créer un Groupe de section à leur prénom
 * 2 sections dedans
 * 3 pages dans une, et 2 en sous-page.
+* supprimer une page et la récupérer
