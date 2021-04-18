@@ -5,6 +5,7 @@ Gratuiciel: https://fr.wikipedia.org/wiki/Microsoft_OneNote
 * voir aussi l'intro et utilisation générique de OneNote: http://onenote.quicklearn.ch
 * le bloc-notes pour la classe: https://medium.com/quicklearn/utiliser-le-bloc-note-de-la-classe-ba6926528a0e
   * avec option détaillée initialisation: https://medium.com/quicklearn/bloc-notes-pour-la-classe-54e973e373dd
+  * La version avant Teams: https://medium.com/quicklearn/g%C3%A9rer-une-classe-via-onenote-ea6225f1897e
 
 ## Exercices
 ### Distanciel
