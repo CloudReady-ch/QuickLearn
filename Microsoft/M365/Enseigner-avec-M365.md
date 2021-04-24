@@ -84,6 +84,7 @@ Ceci est une recommandation de QuickLearn, mais discutable.
 ## Les 5 composants accessoires
 La disponibilité effective des différents composants, va dépendre des configurations dans l'administration du "tenant" du centre/école concerné. L'application Kaizala est intéressante, mais les utilisateurs sont déjà sur Whatsapp, ou plus intelligemment sur Telegram ou Signal, et n'ont guère besoin d'en plus utiliser Kaizala.
 * **Delve** - va faciliter l'exploration des documentations existantes, ou dans ses propres productions, pour les retrouver plus facilement aussi...
+  * voir si cela ne va pas évoluer vers [Graph](https://github.com/CloudReady-ch/QuickLearn/tree/master/Microsoft/Graph)
 * **Dynamics 365** - Est un icône marketing pour promouvoir un espace marchand (*apps marketplace*)
 * **[Kaizala](https://github.com/CloudReady-ch/QuickLearn/tree/master/Microsoft/Kaizala)** - Est la version Microsoft de Whatsapp, et nous recommandons l'usage de Signal à la place (cf. http://whatsapp.kotte.net)
 * **Power Apps** - Va permettre de créer des applications "mobiles" simples à partir de données structurées par exemple.
