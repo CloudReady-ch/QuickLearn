@@ -13,8 +13,8 @@ Bon alors, on va dire de **coachs en apprentissages numériques** qui proposent 
   * ici-même: https://github.com/CloudReady-ch/QuickLearn
   * Mais cela peut ne pas être fini du tout, voir même, pas commencé en fait...
   * Soit pas déçu, tu es prévenu ;)
-* Pis y'a aussi les trucs avec l'ISEIG: https://github.com/CloudReady-ch/ISEIG-LAB
-  * C'est plutôt our les informaticiens (ITIL, Azure, Microsoft, ICT-CFC, ...)
+* Pis y'a aussi les trucs avec l'**ISEIG**: https://github.com/CloudReady-ch/ISEIG-LAB
+  * C'est plutôt pour les informaticiens (ITIL, Azure, Microsoft, ICT-CFC, ...)
 * Pis les trucs de culture numérique: https://github.com/CloudReady-ch/Culture-numerique
 * *Tu veux ajouter qq chose ?*
 
