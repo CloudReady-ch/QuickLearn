@@ -2,6 +2,7 @@
 A compléter
 
 ## ARCEP (FR)
+https://www.arcep.fr/la-regulation/grands-dossiers-thematiques-transverses/lempreinte-environnementale-du-numerique.html
 ### pour un numérique soutenable
 11 recommandations
 * 2020: https://github.com/CloudReady-ch/QuickLearn/blob/master/EXIN/GreenIT/Ref.docs/arcep.fr%20rapport-pour-un-numerique-soutenable_dec2020.pdf
@@ -17,7 +18,6 @@ A compléter
 ## GeSI (Deloitte) EN
 ### SMART 2020, établi en 2008
 * https://github.com/CloudReady-ch/QuickLearn/blob/master/EXIN/GreenIT/Ref.docs/2008%2CGeSI%2Csmart2020.pdf
-
 ### SMARTER 2030: EN
 https://gesi.org/platforms/digital-with-a-purpose-delivering-a-smarter2030
 * Un résumé en anglais https://gesi.org/storage/files/DIGITAL%20WITH%20PURPOSE_Summary_A4-WEB_watermark.pdf
