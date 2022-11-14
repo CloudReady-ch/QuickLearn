@@ -1,6 +1,10 @@
 # index
 A compléter
 
+## BSI (British Standard Institute)
+### PAS 2050
+* 2011,EN: https://github.com/CloudReady-ch/QuickLearn/blob/master/EXIN/GreenIT/Ref.docs/pas-2050-2011-guide.pdf
+
 ## GeSI (Deloitte) EN
 ### SMART 2020, établi en 2008
 * https://github.com/CloudReady-ch/QuickLearn/blob/master/EXIN/GreenIT/Ref.docs/2008%2CGeSI%2Csmart2020.pdf
