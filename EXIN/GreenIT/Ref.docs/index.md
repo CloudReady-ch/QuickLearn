@@ -22,14 +22,14 @@ A compléter
 https://gesi.org/platforms/digital-with-a-purpose-delivering-a-smarter2030
 * Un résumé en anglais https://gesi.org/storage/files/DIGITAL%20WITH%20PURPOSE_Summary_A4-WEB_watermark.pdf
 * Full report (payant) https://gesi.org/research/gesi-digital-with-purpose-full-report
-GESI INTERNAL ASSESSMENT REPORT - CIRCULAR ECONOMY
+### GESI INTERNAL ASSESSMENT REPORT - CIRCULAR ECONOMY
 * https://www.gesi.org/research/gesi-internal-assessment-report-circular-economy (payant)
 
 ## Greenit.fr
-Empreinte environnementale du numérique mondial
+### Empreinte environnementale du numérique mondial
 * 2019,Fr,40p: https://github.com/CloudReady-ch/QuickLearn/blob/master/EXIN/GreenIT/Ref.docs/2019-10-GREENIT-etude_EENM-rapport-accessible.VF_40p.pdf
-Checklist écoconception web Version 3, 9 mai 2019, 7 pages:
-* https://github.com/CloudReady-ch/QuickLearn/blob/master/EXIN/GreenIT/Ref.docs/2019-05-Ref-eco_web-checklist.v3.pdf
+### Checklist écoconception web 
+* FR,v3,2019-05,7p: https://github.com/CloudReady-ch/QuickLearn/blob/master/EXIN/GreenIT/Ref.docs/2019-05-Ref-eco_web-checklist.v3.pdf
 
 ## Greenpeace, EN
 ### Click clean: Green Internet
