@@ -17,5 +17,7 @@ GESI INTERNAL ASSESSMENT REPORT - CIRCULAR ECONOMY
 * https://github.com/CloudReady-ch/QuickLearn/blob/master/EXIN/GreenIT/Ref.docs/2010%2CTerrachoice_The_Sins_of_Greenwashing_-_Home_and_Family_Edition.pdf
 
 ## The Shift Project
-### 2018, Sobriété numérique
-* https://github.com/CloudReady-ch/QuickLearn/blob/master/EXIN/GreenIT/Ref.docs/2018%2CTheShiftProject%2CSobri%C3%A9t%C3%A9%20num%C3%A9rique%20v8.pdf
+### Sobriété numérique, FR
+https://theshiftproject.org/category/thematiques/numerique/
+* 2018, 88p https://github.com/CloudReady-ch/QuickLearn/blob/master/EXIN/GreenIT/Ref.docs/2018%2CTheShiftProject%2CSobri%C3%A9t%C3%A9%20num%C3%A9rique%20v8.pdf
+* 2020, 120p: PUBLICATION DU RAPPORT «DÉPLOYER LA SOBRIÉTÉ NUMÉRIQUE» https://theshiftproject.org/article/deployer-la-sobriete-numerique-rapport-shift/
