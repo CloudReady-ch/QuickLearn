@@ -2,7 +2,8 @@
 A compléter
 
 ## ARCEP (FR)
-https://www.arcep.fr/la-regulation/grands-dossiers-thematiques-transverses/lempreinte-environnementale-du-numerique.html
+* https://www.arcep.fr/larcep/le-manifeste-de-larcep.html
+* https://www.arcep.fr/la-regulation/grands-dossiers-thematiques-transverses/lempreinte-environnementale-du-numerique.html
 ### pour un numérique soutenable
 11 recommandations
 * 2020: https://github.com/CloudReady-ch/QuickLearn/blob/master/EXIN/GreenIT/Ref.docs/arcep.fr%20rapport-pour-un-numerique-soutenable_dec2020.pdf
