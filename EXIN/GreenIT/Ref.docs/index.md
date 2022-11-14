@@ -10,6 +10,10 @@ A compléter
 ### PAS 2050
 * 2011,EN: https://github.com/CloudReady-ch/QuickLearn/blob/master/EXIN/GreenIT/Ref.docs/pas-2050-2011-guide.pdf
 
+## GEM
+### The Global E-waste Monitor 2020
+* 2020,EN: https://github.com/CloudReady-ch/QuickLearn/blob/master/EXIN/GreenIT/Ref.docs/GEM_2020_def_july1_low.pdf
+
 ## GeSI (Deloitte) EN
 ### SMART 2020, établi en 2008
 * https://github.com/CloudReady-ch/QuickLearn/blob/master/EXIN/GreenIT/Ref.docs/2008%2CGeSI%2Csmart2020.pdf
