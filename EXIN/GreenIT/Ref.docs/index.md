@@ -12,6 +12,10 @@ A compléter
 ### PAS 2050
 * 2011,EN: https://github.com/CloudReady-ch/QuickLearn/blob/master/EXIN/GreenIT/Ref.docs/pas-2050-2011-guide.pdf
 
+## CIGREF
+Du Green It au Green by IT, exemple d'applications dans les grandes entreprises
+* 2017,FR,82p: https://www.cigref.fr/wp/wp-content/uploads/2017/01/CIGREF-Du-Green-IT-au-Green-by-IT-2017.pdf
+
 ## GEM
 ### The Global E-waste Monitor 2020
 * 2020,EN: https://github.com/CloudReady-ch/QuickLearn/blob/master/EXIN/GreenIT/Ref.docs/GEM_2020_def_july1_low.pdf
