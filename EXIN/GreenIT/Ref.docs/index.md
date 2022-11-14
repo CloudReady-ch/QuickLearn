@@ -43,9 +43,10 @@ https://gesi.org/platforms/digital-with-a-purpose-delivering-a-smarter2030
 
 ## The Shift Project
 ### Sobriété numérique, FR
-https://theshiftproject.org/category/thematiques/numerique/
-* 2018, 88p https://github.com/CloudReady-ch/QuickLearn/blob/master/EXIN/GreenIT/Ref.docs/2018%2CTheShiftProject%2CSobri%C3%A9t%C3%A9%20num%C3%A9rique%20v8.pdf
-* 2020, 120p: PUBLICATION DU RAPPORT «DÉPLOYER LA SOBRIÉTÉ NUMÉRIQUE» https://theshiftproject.org/article/deployer-la-sobriete-numerique-rapport-shift/
+Dossiers thématique numérique: https://theshiftproject.org/category/thematiques/numerique/
+* 2020,FR,120p: PUBLICATION DU RAPPORT «DÉPLOYER LA SOBRIÉTÉ NUMÉRIQUE» https://theshiftproject.org/article/deployer-la-sobriete-numerique-rapport-shift/
+  * https://github.com/CloudReady-ch/QuickLearn/blob/master/EXIN/GreenIT/Ref.docs/Deployer-la-sobriete-numerique_Resume_ShiftProject%5B1%5D.pdf
+* 2018,FR,88p: https://github.com/CloudReady-ch/QuickLearn/blob/master/EXIN/GreenIT/Ref.docs/2018%2CTheShiftProject%2CSobri%C3%A9t%C3%A9%20num%C3%A9rique%20v8.pdf
 
 # Livres
 ## ENI
