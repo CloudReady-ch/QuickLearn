@@ -26,6 +26,8 @@ GESI INTERNAL ASSESSMENT REPORT - CIRCULAR ECONOMY
 * https://www.gesi.org/research/gesi-internal-assessment-report-circular-economy (payant)
 
 ## Greenit.fr
+Empreinte environnementale du numérique mondial
+* 2019,Fr,40p: https://github.com/CloudReady-ch/QuickLearn/blob/master/EXIN/GreenIT/Ref.docs/2019-10-GREENIT-etude_EENM-rapport-accessible.VF_40p.pdf
 Checklist écoconception web Version 3, 9 mai 2019, 7 pages:
 * https://github.com/CloudReady-ch/QuickLearn/blob/master/EXIN/GreenIT/Ref.docs/2019-05-Ref-eco_web-checklist.v3.pdf
 
