@@ -25,9 +25,11 @@ GESI INTERNAL ASSESSMENT REPORT - CIRCULAR ECONOMY
 Checklist écoconception web Version 3, 9 mai 2019, 7 pages:
 * https://github.com/CloudReady-ch/QuickLearn/blob/master/EXIN/GreenIT/Ref.docs/2019-05-Ref-eco_web-checklist.v3.pdf
 
-## Greenpeace
-Click clean: Green Internet
+## Greenpeace, EN
+### Click clean: Green Internet
 * 2016,EN: https://github.com/CloudReady-ch/QuickLearn/blob/master/EXIN/GreenIT/Ref.docs/ClickClean2016%20HiRes.pdf
+### Guide to Greener Electronics
+* 2017, EN: https://github.com/CloudReady-ch/QuickLearn/blob/master/EXIN/GreenIT/Ref.docs/Guide-to-Greener-Electronics-2017.pdf
 
 ## Terrachoice, EN
 ### 2010, The sins of Greenwashing
