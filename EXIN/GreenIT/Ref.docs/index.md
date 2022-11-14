@@ -46,3 +46,13 @@ https://gesi.org/platforms/digital-with-a-purpose-delivering-a-smarter2030
 https://theshiftproject.org/category/thematiques/numerique/
 * 2018, 88p https://github.com/CloudReady-ch/QuickLearn/blob/master/EXIN/GreenIT/Ref.docs/2018%2CTheShiftProject%2CSobri%C3%A9t%C3%A9%20num%C3%A9rique%20v8.pdf
 * 2020, 120p: PUBLICATION DU RAPPORT «DÉPLOYER LA SOBRIÉTÉ NUMÉRIQUE» https://theshiftproject.org/article/deployer-la-sobriete-numerique-rapport-shift/
+
+# Livres
+## ENI
+* 2020,FR: Green IT
+
+## EXIN
+* 2012,EN: Green IT
+
+## Frédéric Bordage
+* Sobriété numérique
