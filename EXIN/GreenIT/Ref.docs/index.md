@@ -3,7 +3,7 @@ A compléter
 
 ## ARCEP (FR)
 ### pour un numérique soutenable
-11 recommendations
+11 recommandations
 * 2020: https://github.com/CloudReady-ch/QuickLearn/blob/master/EXIN/GreenIT/Ref.docs/arcep.fr%20rapport-pour-un-numerique-soutenable_dec2020.pdf
 
 ## BSI (British Standard Institute)
