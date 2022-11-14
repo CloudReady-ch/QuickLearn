@@ -49,6 +49,7 @@ Dossiers thématique numérique: https://theshiftproject.org/category/thematique
   * Résumé,6p: https://github.com/CloudReady-ch/QuickLearn/blob/master/EXIN/GreenIT/Ref.docs/Deployer-la-sobriete-numerique_Resume_ShiftProject%5B1%5D.pdf
 * 2018,FR,88p: https://github.com/CloudReady-ch/QuickLearn/blob/master/EXIN/GreenIT/Ref.docs/2018%2CTheShiftProject%2CSobri%C3%A9t%C3%A9%20num%C3%A9rique%20v8.pdf
 
+___
 # Livres
 ## ENI
 * 2020,FR: Green IT
